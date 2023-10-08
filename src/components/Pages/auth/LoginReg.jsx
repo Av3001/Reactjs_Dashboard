@@ -17,6 +17,9 @@ const TabPanel=(props)=>{
 
 const LoginReg = () => {
     const[value,setValue]= useState()
+    const handlechange=()=>{
+        
+    }
   return (
     <>
     <Grid container sx={{height:"90vh"}}>
